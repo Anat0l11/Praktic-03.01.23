@@ -25,3 +25,5 @@
 //new Random().Next(min,max); рандомайзер
 //git branch -d название ветки. Удаляет ветку
 //git log --graph. Смотрим сохранения с ветками.
+
+dgdggdrdg
