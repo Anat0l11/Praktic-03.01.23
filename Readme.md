@@ -27,3 +27,4 @@
 //git log --graph. Смотрим сохранения с ветками.
 
 dgdggdrdg
+dgdgdgrdg
